@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Antonio!
 
-<!--
-**antonio9949257/antonio9949257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Developer** with expertise in **PHP**, **JavaScript**, **Python**, and modern frameworks. I love building creative solutions, exploring new technologies, and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+## 🚀 Top Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [SiteProject](https://github.com/antonio9949257/SiteProject)
+- [arminDEV](https://github.com/antonio9949257/arminDEV)
+- [ProyectoSII](https://github.com/antonio9949257/ProyectoSII)
+- [RntBUSS](https://github.com/antonio9949257/RntBUSS)
+- [CRUDPHP](https://github.com/antonio9949257/CRUDPHP)
+
+## 💻 Skills
+
+- PHP, JavaScript, Python
+- Frameworks & modern tech
+- Web development & backend
+- Problem solving & innovation
+
+## 🌐 Connect with Me
+
+<!-- Add your social links below if you want! -->
+<!-- [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
+
+---
+
+*Always learning, always coding. Let’s build something amazing!*
