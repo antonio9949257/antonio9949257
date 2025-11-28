@@ -1,5 +1,5 @@
-# 👋 Hola, soy Armin Daniel Antonio Mendieta (antonio9949257)
-## 🚀 Desarrollador Web & Móvil
+# 👋 Hola, soy Armin (antonio9949257)
+## 🚀 Desarrollador Full
 Me dedico a crear soluciones simples, útiles y modernas, usando tecnología actual y buenas prácticas.
 ## 📫 Contacto
 - 📍 La Paz, Bolivia
