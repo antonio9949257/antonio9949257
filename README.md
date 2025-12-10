@@ -1,4 +1,4 @@
-# 👋 Hola, soy un Informatico Industrial, Me llamo Armin (antonio9949257)
+# 👋 Hola, soy un Informatico Industrial, Me llamo Armin
 ## 🚀 Desarrollador Full 🔋
 Me dedico a desarrollar software/hardware útiles y modernas, usando tecnología actual y buenas prácticas. 
 ## 📫 Contacto
