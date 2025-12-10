@@ -1,6 +1,6 @@
-# 👋 Hola, soy Armin (antonio9949257)
+# 👋 Hola, soy un Informatico Industrial, Me llamo Armin (antonio9949257)
 ## 🚀 Desarrollador Full 🔋
-Me dedico a crear soluciones simples, útiles y modernas, usando tecnología actual y buenas prácticas.
+Me dedico a desarrollar software/hardware útiles y modernas, usando tecnología actual y buenas prácticas. 
 ## 📫 Contacto
 - 🌐 [Site Personal](https://antonio9949257.github.io/antonio9949257)
 - 📍 La Paz, Bolivia
